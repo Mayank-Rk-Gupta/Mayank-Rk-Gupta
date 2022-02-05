@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mayank-Rk-Gupta
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Native Mobile App Development
+- 👀 I’m interested in Web3
 - 📫 How to reach me ? https://www.linkedin.com/in/mayank-gupta-156999192/
 
 <!---
