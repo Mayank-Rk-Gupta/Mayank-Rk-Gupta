@@ -21,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank-rk-gupta&show_icons=true&locale=en" alt="mayank-rk-gupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-rk-gupta&" alt="mayank-rk-gupta" /></p>
