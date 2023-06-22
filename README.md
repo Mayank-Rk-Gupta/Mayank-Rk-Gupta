@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
-<h3 align="center">Working as Solution Engineer in Nokia.</h3>
+<h3 align="center">Software Engineer at Autodesk.</h3>
 
 - 📫 How to reach me **mayankee1999@gmail.com**
 
